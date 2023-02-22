@@ -1,0 +1,24 @@
+{
+  "name": "gb-mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afsar1ansel/gb-mock-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afsar1ansel/gb-mock-api/issues"
+  },
+  "homepage": "https://github.com/afsar1ansel/gb-mock-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

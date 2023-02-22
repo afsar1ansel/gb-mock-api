@@ -1,0 +1,407 @@
+{
+  "admin": [
+   
+  {
+    "title": "json-server",
+    "author": "Md Afsar",
+    "id": 1,
+    "avatar": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg"
+  },
+  {
+    "title": "json-server",
+    "author": "Akash Mishra",
+    "role": "admin",
+    "id": 2,
+    "avatar": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg"
+  },
+  {
+    "title": "json-server",
+    "author": "Himanshu Jain",
+    "avatar": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
+    "role": "admin",
+    "id": 4
+  },
+  {
+    "title": "json-server",
+    "author": "Abhishek Rai",
+    "avatar": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
+    "role": "admin",
+    "id": 3
+  },
+  {
+    "title": "json-server",
+    "author": "Ankit Kumar",
+    "avatar": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
+    "role": "admin",
+    "id": 5
+  }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "title": "Moody- Half sleeve t-shirt",
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T012214.157_800x.png?v=1660136459",
+      "catogory": "women",
+      "price": 199
+    },
+    {
+      "title": "Star Gazing- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 699,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/119Stargazing_800x.png?v=1644587478",
+      "id": 2
+    },
+    {
+      "title": "Joey doesn't share food- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-04-30T153722.657_800x.png?v=1651313577",
+      "id": 3
+    },
+    {
+      "title": "Doberpunk- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/IMG_8666_1_800x.jpg?v=1654086868",
+      "id": 4
+    },
+    {
+      "title": "Bear- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/16Bear-_1_800x.png?v=1660762363",
+      "id": 5
+    },
+    {
+      "title": "Scooby-Doo! Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/53scooby_800x.png?v=1644402485",
+      "id": 6
+    },
+    {
+      "title": "Beyond- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-08-03T182610-376-_1_800x.png?v=1660762372",
+      "id": 7
+    },
+    {
+      "title": "No, You do it - Oversized t-shirt",
+      "catogory": "women",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T012214.157_800x.png?v=1660136459",
+      "id": 8
+    },
+    {
+      "title": "The Godfather- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/BOTNIA_18_800x.png?v=1663844814",
+      "id": 9
+    },
+    {
+      "title": "Area 51- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T011513-207-_1_800x.png?v=1660762345",
+      "id": 10
+    },
+    {
+      "title": "Magic- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T005044.374_800x.png?v=1658344919",
+      "id": 11
+    },
+    {
+      "title": "Goku- Oversized t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T010131.425_800x.png?v=1658345614",
+      "id": 12
+    },
+    {
+      "title": "Cream Kid- Oversized t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-22T151929-629-_1_800x.png?v=1660762665",
+      "id": 13
+    },
+    {
+      "title": "Katana cat- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/MOODY_22_800x.png?v=1654090014",
+      "id": 14
+    },
+    {
+      "title": "Pooh- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 299,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-03-19T140709.413_800x.png?v=1647679464",
+      "id": 15
+    },
+    {
+      "title": "Say No to doing things- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/262nothings_800x.png?v=1644737959",
+      "id": 16
+    },
+    {
+      "title": "Certified Foodie-Oversized Hoodie",
+      "catogory": "men",
+      "price": 1599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2023-01-08T130802.123_800x.png?v=1673163552",
+      "id": 17
+    },
+    {
+      "title": "Peace was never an option-Sweatshirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/BOTNIA-2023-01-07T174558.483_800x.png?v=1673093851",
+      "id": 18
+    },
+    {
+      "title": "Waves- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/91Waves_800x.png?v=1644321961",
+      "id": 19
+    },
+    {
+      "title": "Ramen- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/83Ramen_800x.png?v=1644410019",
+      "id": 20
+    },
+    {
+      "title": "Star Gazing- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 399,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/119Stargazing_800x.png?v=1644587478",
+      "id": 21
+    },
+    {
+      "title": "Meow- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 499,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign_76_800x.png?v=1644490849",
+      "id": 22
+    },
+    {
+      "title": "Skipping Dinno- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/MOODY_9_800x.png?v=1654087406",
+      "id": 23
+    },
+    {
+      "title": "Lego-No : Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/170Lego_800x.png?v=1644841658",
+      "id": 24
+    },
+    {
+      "title": "I can't adult today- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/BOTNIA-2022-12-31T131341.544_800x.png?v=1672472639",
+      "id": 25
+    },
+    {
+      "id": 26,
+      "title": "Moody- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 199
+    },
+    {
+      "title": "Star Gazing- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 699,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/119Stargazing_800x.png?v=1644587478",
+      "id": 27
+    },
+    {
+      "title": "Joey doesn't share food- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-04-30T153722.657_800x.png?v=1651313577",
+      "id": 28
+    },
+    {
+      "title": "Doberpunk- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/IMG_8666_1_800x.jpg?v=1654086868",
+      "id": 29
+    },
+    {
+      "title": "Bear- Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/16Bear-_1_800x.png?v=1660762363",
+      "id": 30
+    },
+    {
+      "title": "Scooby-Doo! Half sleeve t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/53scooby_800x.png?v=1644402485",
+      "id": 31
+    },
+    {
+      "title": "Beyond- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-08-03T182610-376-_1_800x.png?v=1660762372",
+      "id": 32
+    },
+    {
+      "title": "No, You do it - Oversized t-shirt",
+      "catogory": "women",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T012214.157_800x.png?v=1660136459",
+      "id": 33
+    },
+    {
+      "title": "The Godfather- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/BOTNIA_18_800x.png?v=1663844814",
+      "id": 34
+    },
+    {
+      "title": "Area 51- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T011513-207-_1_800x.png?v=1660762345",
+      "id": 35
+    },
+    {
+      "title": "Magic- Oversized t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T005044.374_800x.png?v=1658344919",
+      "id": 36
+    },
+    {
+      "title": "Goku- Oversized t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-21T010131.425_800x.png?v=1658345614",
+      "id": 37
+    },
+    {
+      "title": "Cream Kid- Oversized t-shirt",
+      "catogory": "women",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-07-22T151929-629-_1_800x.png?v=1660762665",
+      "id": 38
+    },
+    {
+      "title": "Katana cat- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/MOODY_22_800x.png?v=1654090014",
+      "id": 39
+    },
+    {
+      "title": "Pooh- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 299,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2022-03-19T140709.413_800x.png?v=1647679464",
+      "id": 40
+    },
+    {
+      "title": "Say No to doing things- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/262nothings_800x.png?v=1644737959",
+      "id": 41
+    },
+    {
+      "title": "Certified Foodie-Oversized Hoodie",
+      "catogory": "men",
+      "price": 1599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign-2023-01-08T130802.123_800x.png?v=1673163552",
+      "id": 42
+    },
+    {
+      "title": "Peace was never an option-Sweatshirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/BOTNIA-2023-01-07T174558.483_800x.png?v=1673093851",
+      "id": 43
+    },
+    {
+      "title": "Waves- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/91Waves_800x.png?v=1644321961",
+      "id": 44
+    },
+    {
+      "title": "Ramen- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/83Ramen_800x.png?v=1644410019",
+      "id": 45
+    },
+    {
+      "title": "Star Gazing- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 399,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/119Stargazing_800x.png?v=1644587478",
+      "id": 46
+    },
+    {
+      "title": "Meow- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 499,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/Untitleddesign_76_800x.png?v=1644490849",
+      "id": 47
+    },
+    {
+      "title": "Skipping Dinno- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/MOODY_9_800x.png?v=1654087406",
+      "id": 48
+    },
+    {
+      "title": "Lego-No : Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/170Lego_800x.png?v=1644841658",
+      "id": 49
+    },
+    {
+      "title": "I can't adult today- Half sleeve t-shirt",
+      "catogory": "men",
+      "price": 599,
+      "image": "https://cdn.shopify.com/s/files/1/0440/6162/2423/products/BOTNIA-2022-12-31T131341.544_800x.png?v=1672472639",
+      "id": 50
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
